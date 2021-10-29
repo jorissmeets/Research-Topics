@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/31740559/139433382-67b35df1-d4bb-4a34-8f83-f017ccf3fc7f.png" width="250" height="90" />
 
 
-# Research topics in data mining
+# Multiple imputation in machine learning: classifier pooling
 This is the accompying code to the research paper written for the track Missing Data for the course Research Topics in Data Mining (2021) at the TU/Eindhoven. The project was supervised by Rianne Margetha Schouten.
 
 The goal of the project was to test three pooling methods that can used after multiple imputation, in the context of neural networks. The approaches were to pool estimators or weights, pool the imputed datasets and to bag the results. See the pdf for the paper.
